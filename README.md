@@ -46,7 +46,7 @@ sudo supervisorctl start photo-booth
 
 ### Making of
 
-
+![](./MakingOf.jpg)
 
 ### Contributors
 
