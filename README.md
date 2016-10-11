@@ -41,3 +41,7 @@ sudo supervisorctl start photo-booth
 ### Curcuit diagram
 
 coming soon.
+
+### License
+
+MIT
