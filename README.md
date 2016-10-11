@@ -42,6 +42,10 @@ sudo supervisorctl start photo-booth
 
 coming soon.
 
+### Contributors
+
+Handwriting by [@johnnieparkstudio](https://www.instagram.com/johnnieparkstudio/)
+
 ### License
 
 MIT
