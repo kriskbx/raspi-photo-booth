@@ -6,17 +6,18 @@
 
 ### Hardware used
 
-* Raspberry PI Model B
-* Raspberry NOIR Camera
-* Adafruit 60mm Arcade LED Button
-* POS58 Thermal Printer
-* Analog Buzzer
+* [Raspberry PI Model B+](http://amzn.to/2eb9ngF)
+* [Raspberry Camera NoIR V2](http://amzn.to/2eb7lx4)
+* [Adafruit 60mm Arcade LED Button](http://amzn.to/2dHWpHU)
+* [POS58 Thermal Printer](http://amzn.to/2d4lyea)
+* + more (coming soon)
 
 ### Getting started
 
 ```
 # Clone the repository
 git clone https://github.com/kriskbx/raspi-photo-booth
+cd raspi-photo-booth
 
 # Install supervisor
 sudo apt-get install supervisord
@@ -37,6 +38,6 @@ sudo supervisorctl update
 sudo supervisorctl start photo-booth
 ```
 
-### curcuit diagram
+### Curcuit diagram
 
 coming soon.
